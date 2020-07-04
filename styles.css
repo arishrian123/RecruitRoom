@@ -309,3 +309,21 @@ html {
  html, body {
     overflow-x: hidden;
     }
+
+    .landing-details{
+      position: relative;
+      top: -400px;
+      left: 60px;
+    }
+
+    .landing-details p {
+      color: white;
+    }
+
+    .model {
+      position: absolute;
+      top: 80px;
+      left: 300px;
+    }
+
+    
